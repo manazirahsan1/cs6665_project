@@ -4,7 +4,7 @@ The project is Kaggle project titled "Titanic: Machine Learning from Disaster". 
 # Execution of the code is easy. Just follow the following steps:
 1. Download the code (project_code_dl.py).
 2. Download the train.csv and test.csv files (available in this repository).
-3. Preserve the files in the root directory (of the code or Kaggle/Google-colab's notebook).
+3. Preserve the files in the root directory (of the code or Google-colab's notebook).
 4. Execute the program. The code will dump a file Deep_Learning_Solution.csv in the root directory. This is the prediction to be tested on Kaggle.
 
 # The code does the following things
